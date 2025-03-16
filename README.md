@@ -12,6 +12,10 @@
 
 ¿Tienes ganas de volver a jugar *Kingdom Hearts* pero escuchando todo en tu idioma? ¡Prueba este mod! Ahora podrás entender y disfrutar lo que dicen tus personajes favoritos sin necesidad de saber otro idioma.
 
+### IMPORTANTE‼️‼️ 
+Toda la demo de doblaje de Kingdom Hearts es versión en desarrollo. 
+Pueden haber cambios y mejoras en el resultado final cuando el mod esté completo. Queremos ofrecer la mejor experiencia posible, así que seguimos trabajando para pulir cada detalle.
+
 ## Este DEMO del mod incluye:
 **📜 Texturas traducidas al español.**
 
