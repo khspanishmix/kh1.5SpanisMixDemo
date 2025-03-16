@@ -12,7 +12,7 @@
 
 ¿Tienes ganas de volver a jugar *Kingdom Hearts* pero escuchando todo en tu idioma? ¡Prueba este mod! Ahora podrás entender y disfrutar lo que dicen tus personajes favoritos sin necesidad de saber otro idioma.
 
-## Este mod incluye:
+## Este DEMO del mod incluye:
 **📜 Texturas traducidas al español.**
 
 **📜 Todas las voces dobladas al español:**
