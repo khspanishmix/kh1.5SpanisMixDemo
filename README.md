@@ -52,9 +52,9 @@ Pueden haber cambios y mejoras en el resultado final cuando el mod esté complet
 
 ### 🎞️ Instrucciones videos (opcionales):
 
-- [**Canciones en Español**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_ESP.zip)  
-- [**Canciones en Inglés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_EN.zip)  
-- [**Canciones en Japonés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_JP.zip)  
+- [**Canciones en Español**](https://github.com/khspanishmix/kh1.5SpanishMixDemo/releases/download/Videos/KHFMSpanishMix_Cinematicas_ESP.zip)  
+- [**Canciones en Inglés**](https://github.com/khspanishmix/kh1.5SpanishMixDemo/releases/download/Videos/KHFMSpanishMix_Cinematicas_EN.zip)  
+- [**Canciones en Japonés**](https://github.com/khspanishmix/kh1.5SpanishMixDemo/releases/download/Videos/KHFMSpanishMix_Cinematicas_JP.zip)  
 
 Descomprime este archivo ZIP en la carpeta de instalación del juego:
 
