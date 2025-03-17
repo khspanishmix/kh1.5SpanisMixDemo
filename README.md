@@ -1,12 +1,10 @@
 # KHFM - Voces en Castellano
 
-![PORTADA jpg](https://github.com/user-attachments/assets/cac71017-f182-4234-81e3-69c40aa61653)
+![PORTADA jpg](https://github.com/khspanishmix/kh1.5SpanishMixDemo/blob/main/preview.png?raw=true)
 
 ### 🌐 URLs:
 
 [**Redes sociales**](http://linktr.ee/khspmix)
-
-[**NexusMod**](#)
 
 ### 🎮 Descripción:
 
@@ -36,7 +34,7 @@ Pueden haber cambios y mejoras en el resultado final cuando el mod esté complet
 
 1. Abre `OpenKh.Tools.ModsManager.exe`. Puedes descargarlo desde [aquí](https://github.com/OpenKH/OpenKh/releases/download/latest/openkh.zip).
 2. Si es la primera vez que lo usas, configúralo para que detecte tu instalación del juego, asegúrate de que tenga Panacea instalado, Lua Backend instalado y configurado, y que *Kingdom Hearts* esté extraído.
-3. Ve a `Mods -> Install a new mod` y escribe lo siguiente: `Yokimitsuro/KHFMSpanish`.
+3. Ve a `Mods -> Install a new mod` y escribe lo siguiente: `khspanishmix/kh1.5SpanishMixDemo`.
 4. En `Mod Loader`, selecciona `Build and Run` (o `Build Only`).
 5. ¡Disfruta!
 
@@ -52,9 +50,9 @@ Pueden haber cambios y mejoras en el resultado final cuando el mod esté complet
 
 ### 🎞️ Instrucciones videos (opcionales):
 
-- [**Canciones en Español**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_ESP.zip)  
-- [**Canciones en Inglés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_EN.zip)  
-- [**Canciones en Japonés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_JP.zip)  
+- [**Canciones en Español**](https://github.com/khspanishmix/kh1.5SpanishMixDemo/releases/download/Videos/KHFMSpanishMix_Cinematicas_ESP.zip)  
+- [**Canciones en Inglés**](https://github.com/khspanishmix/kh1.5SpanishMixDemo/releases/download/Videos/KHFMSpanishMix_Cinematicas_EN.zip)  
+- [**Canciones en Japonés**](https://github.com/khspanishmix/kh1.5SpanishMixDemo/releases/download/Videos/KHFMSpanishMix_Cinematicas_JP.zip)  
 
 Descomprime este archivo ZIP en la carpeta de instalación del juego:
 
