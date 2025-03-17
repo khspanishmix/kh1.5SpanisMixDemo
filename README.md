@@ -34,7 +34,7 @@ Pueden haber cambios y mejoras en el resultado final cuando el mod esté complet
 
 1. Abre `OpenKh.Tools.ModsManager.exe`. Puedes descargarlo desde [aquí](https://github.com/OpenKH/OpenKh/releases/download/latest/openkh.zip).
 2. Si es la primera vez que lo usas, configúralo para que detecte tu instalación del juego, asegúrate de que tenga Panacea instalado, Lua Backend instalado y configurado, y que *Kingdom Hearts* esté extraído.
-3. Ve a `Mods -> Install a new mod` y escribe lo siguiente: `Yokimitsuro/KHFMSpanish`.
+3. Ve a `Mods -> Install a new mod` y escribe lo siguiente: `khspanishmix/kh1.5SpanishMixDemo`.
 4. En `Mod Loader`, selecciona `Build and Run` (o `Build Only`).
 5. ¡Disfruta!
 
