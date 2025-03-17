@@ -118,7 +118,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Opening:**
   - Cantado por [Marta Delgado Larios](https://www.youtube.com/@martadubs).
   - Letra de Charm.
-  - Mezcla y Mastering de Ocoa Music.
+  - [Mezcla y Mastering de Ocoa Music](https://www.instagram.com/ocoa.music?igsh=N2pydW5sZXk1bmhn).
 ### Otras aportaciones
 
 - [Eidan Albert](https://www.instagram.com/_trifulkas_?igsh=cTh6b3EzbDdta2gx)
