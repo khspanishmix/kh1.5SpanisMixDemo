@@ -2,7 +2,7 @@ title: KHFM - Castellano(DEMO)
 originalAuthor: Spanish Mix++
 description: Este mod cambia las voces de Kingdom Hearts Final Mix al doblaje español realizado por Spanish Mix++. IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
 game: kh1
-dependencies:
+dependencies: 
 assets:
 - name: scripts/KHFMDRP.lua
   method: copy
@@ -40,3 +40,4399 @@ assets:
   method: copy
   source:
   - name: remastered/title/title.img/-c0170.dds
+- name: remastered/aw.wdt/-136c0.dds
+  method: copy
+  source:
+  - name: remastered/aw.wdt/-136c0.dds
+- name: remastered/di.wdt/-be80.dds
+  method: copy
+  source:
+  - name: remastered/di.wdt/-be80.dds
+- name: remastered/he.wdt/-40e0.dds
+  method: copy
+  source:
+  - name: remastered/he.wdt/-40e0.dds
+- name: remastered/he00_01.img/-73500.dds
+  method: copy
+  source:
+  - name: remastered/he00_01.img/-73500.dds
+- name: remastered/he00_01.img/-a3501.dds
+  method: copy
+  source:
+  - name: remastered/he00_01.img/-a3501.dds
+- name: remastered/he00_02.img/-23d06.dds
+  method: copy
+  source:
+  - name: remastered/he00_02.img/-23d06.dds
+- name: remastered/he00_02.img/-63d00.dds
+  method: copy
+  source:
+  - name: remastered/he00_02.img/-63d00.dds
+- name: remastered/he00_03.img/-73500.dds
+  method: copy
+  source:
+  - name: remastered/he00_03.img/-73500.dds
+- name: remastered/he00_03.img/-a3501.dds
+  method: copy
+  source:
+  - name: remastered/he00_03.img/-a3501.dds
+- name: remastered/he00_04.img/-24106.dds
+  method: copy
+  source:
+  - name: remastered/he00_04.img/-24106.dds
+- name: remastered/he00_04.img/-54100.dds
+  method: copy
+  source:
+  - name: remastered/he00_04.img/-54100.dds
+- name: remastered/he00_05.img/-24106.dds
+  method: copy
+  source:
+  - name: remastered/he00_05.img/-24106.dds
+- name: remastered/he00_05.img/-54500.dds
+  method: copy
+  source:
+  - name: remastered/he00_05.img/-54500.dds
+- name: remastered/he01.ard/-107041.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-107041.dds
+- name: remastered/he01.ard/-10be80.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-10be80.dds
+- name: remastered/he01.ard/-11d00.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-11d00.dds
+- name: remastered/he01.ard/-1a340.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-1a340.dds
+- name: remastered/he01.ard/-1a780.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-1a780.dds
+- name: remastered/he01.ard/-22dc0.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-22dc0.dds
+- name: remastered/he01.ard/-22dc1.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-22dc1.dds
+- name: remastered/he01.ard/-25680.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-25680.dds
+- name: remastered/he01.ard/-35680.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-35680.dds
+- name: remastered/he01.ard/-8e40.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-8e40.dds
+- name: remastered/he01.ard/-9280.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-9280.dds
+- name: remastered/he02.ard/-6bb40.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-6bb40.dds
+- name: remastered/he02.ard/-71680.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-71680.dds
+- name: remastered/he02.ard/-932c0.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-932c0.dds
+- name: remastered/he02.ard/-9a700.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-9a700.dds
+- name: remastered/he02.ard/-9cdc1.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-9cdc1.dds
+- name: remastered/he02.ard/-a1c00.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-a1c00.dds
+- name: remastered/he04.ard/-118c0.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-118c0.dds
+- name: remastered/he04.ard/-11d00.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-11d00.dds
+- name: remastered/he04.ard/-1a340.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-1a340.dds
+- name: remastered/he04.ard/-1a780.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-1a780.dds
+- name: remastered/he04.ard/-22dc0.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-22dc0.dds
+- name: remastered/he04.ard/-22dc1.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-22dc1.dds
+- name: remastered/he04.ard/-25680.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-25680.dds
+- name: remastered/he04.ard/-35680.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-35680.dds
+- name: remastered/he04.ard/-8e40.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-8e40.dds
+- name: remastered/he04.ard/-9280.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-9280.dds
+- name: remastered/tw.wdt/-32be0.dds
+  method: copy
+  source:
+  - name: remastered/tw.wdt/-32be0.dds
+- name: remastered/tw00_01.bin/-1e41b0.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.bin/-1e41b0.dds
+- name: remastered/tw00_01.bin/-1e55d0.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.bin/-1e55d0.dds
+- name: remastered/tw00_01.bin/-1e69f0.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.bin/-1e69f0.dds
+- name: remastered/tw00_01.img/-10ad02.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-10ad02.dds
+- name: remastered/tw00_01.img/-10ad03.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-10ad03.dds
+- name: remastered/tw00_01.img/-13ad01.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-13ad01.dds
+- name: remastered/tw00_01.img/-3ad03.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-3ad03.dds
+- name: remastered/tw00_01.img/-4ad02.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-4ad02.dds
+- name: remastered/tw00_01.img/-7ad02.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-7ad02.dds
+- name: remastered/tw00_01.img/-aad0b.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-aad0b.dds
+- name: remastered/tw00_01.img/-ad02.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-ad02.dds
+- name: remastered/tw00_01.img/-bad08.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-bad08.dds
+- name: remastered/tw00_01.img/-ead01.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-ead01.dds
+- name: remastered/tw00_02.img/-1f904.dds
+  method: copy
+  source:
+  - name: remastered/tw00_02.img/-1f904.dds
+- name: remastered/tw00_02.img/-7f911.dds
+  method: copy
+  source:
+  - name: remastered/tw00_02.img/-7f911.dds
+- name: remastered/tw00_02.img/-8f90d.dds
+  method: copy
+  source:
+  - name: remastered/tw00_02.img/-8f90d.dds
+- name: remastered/tw00_02.img/-ef901.dds
+  method: copy
+  source:
+  - name: remastered/tw00_02.img/-ef901.dds
+- name: remastered/tw00_03.img/-11ad00.dds
+  method: copy
+  source:
+  - name: remastered/tw00_03.img/-11ad00.dds
+- name: remastered/tw00_03.img/-12ad00.dds
+  method: copy
+  source:
+  - name: remastered/tw00_03.img/-12ad00.dds
+- name: remastered/tw00_03.img/-7ad03.dds
+  method: copy
+  source:
+  - name: remastered/tw00_03.img/-7ad03.dds
+- name: remastered/tw00_03.img/-7ad07.dds
+  method: copy
+  source:
+  - name: remastered/tw00_03.img/-7ad07.dds
+- name: remastered/tw00_04.img/-11a10e.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-11a10e.dds
+- name: remastered/tw00_04.img/-4a10d.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-4a10d.dds
+- name: remastered/tw00_04.img/-6a12d.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-6a12d.dds
+- name: remastered/tw00_04.img/-aa103.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-aa103.dds
+- name: remastered/tw00_04.img/-ea104.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-ea104.dds
+- name: remastered/tw00_06.img/-11d506.dds
+  method: copy
+  source:
+  - name: remastered/tw00_06.img/-11d506.dds
+- name: remastered/tw00_06.img/-ad502.dds
+  method: copy
+  source:
+  - name: remastered/tw00_06.img/-ad502.dds
+- name: remastered/tw00_06.img/-dd502.dds
+  method: copy
+  source:
+  - name: remastered/tw00_06.img/-dd502.dds
+- name: remastered/tw00_08.img/-fc103.dds
+  method: copy
+  source:
+  - name: remastered/tw00_08.img/-fc103.dds
+- name: remastered/tw00_14.img/-11b100.dds
+  method: copy
+  source:
+  - name: remastered/tw00_14.img/-11b100.dds
+- name: remastered/tw00_14.img/-7b107.dds
+  method: copy
+  source:
+  - name: remastered/tw00_14.img/-7b107.dds
+- name: remastered/tz.wdt/-f7e0.dds
+  method: copy
+  source:
+  - name: remastered/tz.wdt/-f7e0.dds
+- name: remastered/xa_aw_1010.mdls/qh00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00at00.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00da00.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00ex00.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00ex01.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00ex02.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00ex03.win32.scd
+- name: remastered/xa_di_1010.mdls/te00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00at00.win32.scd
+- name: remastered/xa_di_1010.mdls/te00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00at01.win32.scd
+- name: remastered/xa_di_1010.mdls/te00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00at02.win32.scd
+- name: remastered/xa_di_1010.mdls/te00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00at03.win32.scd
+- name: remastered/xa_di_1010.mdls/te00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00da00.win32.scd
+- name: remastered/xa_di_1010.mdls/te00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00da01.win32.scd
+- name: remastered/xa_di_1010.mdls/te00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00da02.win32.scd
+- name: remastered/xa_di_1010.mdls/te00ex00-1.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00ex00-1.win32.scd
+- name: remastered/xa_di_1010.mdls/te00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00ex00.win32.scd
+- name: remastered/xa_di_1010.mdls/te00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00ex01.win32.scd
+- name: remastered/xa_di_1010.mdls/te00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00ex02.win32.scd
+- name: remastered/xa_di_1010.mdls/te00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1010.mdls/te00ex03.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00at00.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00at01.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00at02.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00da00.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00da01.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00da02.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00da03.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00ex00.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00ex01.win32.scd
+- name: remastered/xa_di_1020.mdls/sl00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1020.mdls/sl00ex02.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00at00.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00at01.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00at02.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00da00.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00da01.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00da02.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00da03.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00ex00.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00ex01.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00ex02.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at00.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at01.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at02.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at03.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at04.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at05.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at06.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at07.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at0b.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at0b.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at6a.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at6a.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01at6b.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01at6b.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01da00.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01da01.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01da02.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01da03.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01ex00.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01ex01.win32.scd
+- name: remastered/xa_ex_1010.mdls/rk01ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1010.mdls/rk01ex02.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at00.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at01.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at02.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at03.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at04.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at05.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at06.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at07.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at08.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at09.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00at10.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00da00.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00da01.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00da02.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00da02_kp.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00da02_kp.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00da03.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00da04.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00da05.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1030.mdls/le00da06.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at00.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at01.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at02.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at03.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at04.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at05.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00da00.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00da01.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00da02.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00da03.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at00.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at01.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at02.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at03.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at04.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at05.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at06.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00da00.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00da01.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00da02.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00da03.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at02.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at03.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at03_1.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at03_1.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at04.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at05.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at08.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at11.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at13.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da00.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da01.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da02.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da03.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da04.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da05.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da06.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00ex00.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00ex03.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00ex07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00ex07.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00at00.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00at01.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00at07.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00at10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00at10.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00at12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00at12.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00ex01.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00ex04.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00ex05.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00ex06.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00ex10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00ex10.win32.scd
+- name: remastered/xa_tz_3020.mdls/cl00ex13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3020.mdls/cl00ex13.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00at00.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00at01.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00at07.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00at10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00at10.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00at12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00at12.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00ex01.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00ex04.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00ex05.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00ex06.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00ex10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00ex10.win32.scd
+- name: remastered/xa_tz_3040.mdls/cl00ex13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3040.mdls/cl00ex13.win32.scd
+- name: remastered/amusic/music110.dat/music110.win32.scd
+  method: copy
+  source:
+  - name: remastered/amusic/music110.dat/music110.win32.scd
+- name: remastered/voice/aw_donald.vsb/aw_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/aw_donald.vsb/aw_donald.win32.scd
+- name: remastered/voice/aw_goofy.vsb/aw_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/aw_goofy.vsb/aw_goofy.win32.scd
+- name: remastered/voice/aw_sora.vsb/aw_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/aw_sora.vsb/aw_sora.win32.scd
+- name: remastered/voice/di_sora.vsb/di_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/di_sora.vsb/di_sora.win32.scd
+- name: remastered/voice/he_donald.vsb/he_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/he_donald.vsb/he_donald.win32.scd
+- name: remastered/voice/he_goofy.vsb/he_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/he_goofy.vsb/he_goofy.win32.scd
+- name: remastered/voice/he_sora.vsb/he_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/he_sora.vsb/he_sora.win32.scd
+- name: remastered/voice/tarzan.vsb/tarzan.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tarzan.vsb/tarzan.win32.scd
+- name: remastered/voice/tw_donald.vsb/tw_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tw_donald.vsb/tw_donald.win32.scd
+- name: remastered/voice/tw_goofy.vsb/tw_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tw_goofy.vsb/tw_goofy.win32.scd
+- name: remastered/voice/tw_sora.vsb/tw_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tw_sora.vsb/tw_sora.win32.scd
+- name: remastered/voice/tz_donald.vsb/tz_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tz_donald.vsb/tz_donald.win32.scd
+- name: remastered/voice/tz_goofy.vsb/tz_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tz_goofy.vsb/tz_goofy.win32.scd
+- name: remastered/voice/tz_sora.vsb/tz_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tz_sora.vsb/tz_sora.win32.scd
+- name: remastered/worldmap/route_tw_1.rtb/-35c30.dds
+  method: copy
+  source:
+  - name: remastered/worldmap/route_tw_1.rtb/-35c30.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-115a0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-115a0.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-139c0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-139c0.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-1a620.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-1a620.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-6100.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-6100.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-8520.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-8520.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-cd60.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-cd60.dds
+- name: remastered/eveffect/di/di_002.dpx/-127e0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/-127e0.dds
+- name: remastered/eveffect/he/he_000.dpx/-115c0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/he/he_000.dpx/-115c0.dds
+- name: remastered/eveffect/he/he_000.dpx/-8d80.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/he/he_000.dpx/-8d80.dds
+- name: remastered/eveffect/he/he_000.dpx/-d1a0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/he/he_000.dpx/-d1a0.dds
+- name: remastered/eveffect/po/po_001.dpx/-1c80.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/po/po_001.dpx/-1c80.dds
+- name: remastered/eveffect/po/po_001.dpx/SP_po_001_dpx1c80.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/po/po_001.dpx/SP_po_001_dpx1c80.dds
+- name: remastered/eveffect/tw/tw_000.dpx/-12300.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tw/tw_000.dpx/-12300.dds
+- name: remastered/eveffect/tw/tw_000.dpx/-1cb40.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tw/tw_000.dpx/-1cb40.dds
+- name: remastered/eveffect/tw/tw_000.dpx/-1ef60.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tw/tw_000.dpx/-1ef60.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-11640.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-11640.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-19a60.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-19a60.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-21e80.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-21e80.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-2a2a0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-2a2a0.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-326c0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-326c0.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-4e00.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-4e00.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-9220.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-9220.dds
+- name: remastered/worldmap/wi/wp_tw.tzb/-180.dds
+  method: copy
+  source:
+  - name: remastered/worldmap/wi/wp_tw.tzb/-180.dds
+- name: remastered/voice/event/aw/aw_001.vset/aw0101wr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_001.vset/aw0101wr.win32.scd
+- name: remastered/voice/event/aw/aw_001.vset/aw0102wr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_001.vset/aw0102wr.win32.scd
+- name: remastered/voice/event/aw/aw_003.vset/aw0301sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_003.vset/aw0301sr.win32.scd
+- name: remastered/voice/event/aw/aw_003.vset/aw0302dn.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_003.vset/aw0302dn.win32.scd
+- name: remastered/voice/event/aw/aw_003.vset/aw0303do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_003.vset/aw0303do.win32.scd
+- name: remastered/voice/event/aw/aw_003.vset/aw0304dn.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_003.vset/aw0304dn.win32.scd
+- name: remastered/voice/event/aw/aw_003.vset/aw0305go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_003.vset/aw0305go.win32.scd
+- name: remastered/voice/event/aw/aw_003.vset/aw0306dn.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_003.vset/aw0306dn.win32.scd
+- name: remastered/voice/event/aw/aw_003.vset/aw0307sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_003.vset/aw0307sr.win32.scd
+- name: remastered/voice/event/aw/aw_003.vset/aw0308dn.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_003.vset/aw0308dn.win32.scd
+- name: remastered/voice/event/aw/aw_005.vset/aw0501dn.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_005.vset/aw0501dn.win32.scd
+- name: remastered/voice/event/aw/aw_006.vset/aw0601wr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_006.vset/aw0601wr.win32.scd
+- name: remastered/voice/event/aw/aw_006.vset/aw0602al.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_006.vset/aw0602al.win32.scd
+- name: remastered/voice/event/aw/aw_006.vset/aw0603wr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_006.vset/aw0603wr.win32.scd
+- name: remastered/voice/event/aw/aw_006.vset/aw0604qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_006.vset/aw0604qh.win32.scd
+- name: remastered/voice/event/aw/aw_006.vset/aw0605qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_006.vset/aw0605qh.win32.scd
+- name: remastered/voice/event/aw/aw_006.vset/aw0606al.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_006.vset/aw0606al.win32.scd
+- name: remastered/voice/event/aw/aw_006.vset/aw0607qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_006.vset/aw0607qh.win32.scd
+- name: remastered/voice/event/aw/aw_007.vset/aw0608al.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_007.vset/aw0608al.win32.scd
+- name: remastered/voice/event/aw/aw_007.vset/aw0609al.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_007.vset/aw0609al.win32.scd
+- name: remastered/voice/event/aw/aw_007.vset/aw0610qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_007.vset/aw0610qh.win32.scd
+- name: remastered/voice/event/aw/aw_008.vset/aw0611sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_008.vset/aw0611sr.win32.scd
+- name: remastered/voice/event/aw/aw_008.vset/aw0612do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_008.vset/aw0612do.win32.scd
+- name: remastered/voice/event/aw/aw_008.vset/aw0613go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_008.vset/aw0613go.win32.scd
+- name: remastered/voice/event/aw/aw_008.vset/aw0614do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_008.vset/aw0614do.win32.scd
+- name: remastered/voice/event/aw/aw_008.vset/aw0615go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_008.vset/aw0615go.win32.scd
+- name: remastered/voice/event/aw/aw_009.vset/aw0618qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_009.vset/aw0618qh.win32.scd
+- name: remastered/voice/event/aw/aw_009.vset/aw0619qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_009.vset/aw0619qh.win32.scd
+- name: remastered/voice/event/aw/aw_009.vset/aw0620sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_009.vset/aw0620sr.win32.scd
+- name: remastered/voice/event/aw/aw_009.vset/aw0621qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_009.vset/aw0621qh.win32.scd
+- name: remastered/voice/event/aw/aw_009.vset/aw0622al.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_009.vset/aw0622al.win32.scd
+- name: remastered/voice/event/aw/aw_009.vset/aw0623sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_009.vset/aw0623sr.win32.scd
+- name: remastered/voice/event/aw/aw_009.vset/aw0624qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_009.vset/aw0624qh.win32.scd
+- name: remastered/voice/event/aw/aw_010.vset/aw0625sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_010.vset/aw0625sr.win32.scd
+- name: remastered/voice/event/aw/aw_010.vset/aw0626go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_010.vset/aw0626go.win32.scd
+- name: remastered/voice/event/aw/aw_010.vset/aw0627sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_010.vset/aw0627sr.win32.scd
+- name: remastered/voice/event/aw/aw_010.vset/aw0628qh.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_010.vset/aw0628qh.win32.scd
+- name: remastered/voice/event/aw/aw_010.vset/aw0629sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_010.vset/aw0629sr.win32.scd
+- name: remastered/voice/event/aw/aw_011.vset/aw1101dn.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_011.vset/aw1101dn.win32.scd
+- name: remastered/voice/event/aw/aw_011.vset/aw11a1dn.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_011.vset/aw11a1dn.win32.scd
+- name: remastered/voice/event/aw/aw_011.vset/aw11a2sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/aw/aw_011.vset/aw11a2sr.win32.scd
+- name: remastered/voice/event/dc/dc_001.vset/dc0101do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_001.vset/dc0101do.win32.scd
+- name: remastered/voice/event/dc/dc_001.vset/dc0102do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_001.vset/dc0102do.win32.scd
+- name: remastered/voice/event/dc/dc_001.vset/dc0103do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_001.vset/dc0103do.win32.scd
+- name: remastered/voice/event/dc/dc_001.vset/dc0104do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_001.vset/dc0104do.win32.scd
+- name: remastered/voice/event/dc/dc_002.vset/dc0105do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_002.vset/dc0105do.win32.scd
+- name: remastered/voice/event/dc/dc_002.vset/dc0106go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_002.vset/dc0106go.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0107do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0107do.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0108go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0108go.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0109do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0109do.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0110go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0110go.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0111do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0111do.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0112go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0112go.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0113do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0113do.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0114go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0114go.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0115do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0115do.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0116da.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0116da.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc0117do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc0117do.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc01a1go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc01a1go.win32.scd
+- name: remastered/voice/event/dc/dc_003.vset/dc01a2go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_003.vset/dc01a2go.win32.scd
+- name: remastered/voice/event/dc/dc_004.vset/dc0201da.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_004.vset/dc0201da.win32.scd
+- name: remastered/voice/event/dc/dc_004.vset/dc0202mi.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_004.vset/dc0202mi.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0203go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0203go.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0204do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0204do.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0205mi.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0205mi.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0206do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0206do.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0207da.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0207da.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0208mi.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0208mi.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0209ji.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0209ji.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0210ji.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0210ji.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0211mi.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0211mi.win32.scd
+- name: remastered/voice/event/dc/dc_005.vset/dc0212do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_005.vset/dc0212do.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0301go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0301go.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0302ji.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0302ji.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0303do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0303do.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0304go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0304go.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0305go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0305go.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0306go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0306go.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0307do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0307do.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0308go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0308go.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0309do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0309do.win32.scd
+- name: remastered/voice/event/dc/dc_006.vset/dc0310go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006.vset/dc0310go.win32.scd
+- name: remastered/voice/event/dc/dc_007.vset/dc0311do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_007.vset/dc0311do.win32.scd
+- name: remastered/voice/event/dc/dc_007.vset/dc0312do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_007.vset/dc0312do.win32.scd
+- name: remastered/voice/event/dc/dc_007.vset/dc0313do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_007.vset/dc0313do.win32.scd
+- name: remastered/voice/event/dc/dc_007.vset/dc03a1do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_007.vset/dc03a1do.win32.scd
+- name: remastered/voice/event/dc/dc_007.vset/dc03a2go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_007.vset/dc03a2go.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02at01.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02at02.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02at03.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02at06.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02at10.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02at10.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02at12.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02at12.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02at13.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02at13.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02da00.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02da01.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02da02.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02da03.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02da04.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02da05.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02da06.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02ex00.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lb02ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lb02ex06.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at00.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at01.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at02.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at03.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at04.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at05.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at06.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at07.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at08.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at08.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at09.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at09.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00at10.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00at10.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00da00.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00da01.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00da02.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00da02_kp.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00da02_kp.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00da03.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00da04.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00da05.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/le00da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/le00da06.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0101ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0101ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0102sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0102sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0103sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0103sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0104ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0104ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0105ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0105ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0106fl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0106fl.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0107sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0107sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0108ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0108ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0109sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0109sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0110sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0110sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0111ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0111ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0112sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0112sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0113ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0113ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0201sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0201sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0202ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0202ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0203sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0203sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0401tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0401tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0402sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0402sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0403tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0403tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0404ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0404ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0405tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0405tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0406tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0406tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0407ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0407ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0408sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0408sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0409sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0409sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0410tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0410tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0411ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0411ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0412tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0412tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0413sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0413sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0414go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0414go.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0415tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0415tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0416ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0416ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0417go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0417go.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0418tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0418tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0419ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0419ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0420tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0420tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0421tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0421tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0422tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0422tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0423tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0423tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0424sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0424sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0425sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0425sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0426tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0426tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0427tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0427tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0428sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0428sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0429tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0429tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0430tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0430tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0431sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0431sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0432tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0432tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0433sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0433sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0601ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0601ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0602ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0602ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm0603ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm0603ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1101tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1101tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1102ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1102ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1103ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1103ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1104tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1104tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1105sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1105sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1106tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1106tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1107sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1107sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1108tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1108tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1109sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1109sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1110tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1110tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1111tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1111tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1112sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1112sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1113tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1113tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1114go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1114go.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1115tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1115tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1116jt.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1116jt.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1117fs.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1117fs.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1118jt.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1118jt.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1119fs.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1119fs.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1120ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1120ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1121jt.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1121jt.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1122fs.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1122fs.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1123jt.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1123jt.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1124fs.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1124fs.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1125ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1125ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1126ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1126ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1127ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1127ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1128ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1128ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1129ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1129ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1130ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1130ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1131ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1131ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1132ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1132ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1133ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1133ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1134ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1134ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1135ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1135ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1201ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1201ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1202ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1202ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1203ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1203ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1301ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1301ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1302ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1302ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1303ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1303ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1304ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1304ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1305ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1305ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1306jt.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1306jt.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1307fs.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1307fs.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1308ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1308ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1309ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1309ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1310ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1310ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1311ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1311ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1312tr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1312tr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1313sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1313sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1314ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1314ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1315ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1315ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1316ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1316ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1317sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1317sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1318sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1318sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1501do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1501do.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1502sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1502sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm15a1do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm15a1do.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm15a2sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm15a2sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1701ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1701ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm17a1ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm17a1ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1801ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1801ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm1802ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm1802ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm18a1ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm18a1ur.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm2001ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm2001ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm2002sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm2002sr.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm2003ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm2003ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm2004ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm2004ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm2005ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm2005ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm2006ar.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm2006ar.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm2007sb.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm2007sb.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm_donald.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm_goofy.win32.scd
+- name: remastered/voice/event/dc/dc_008.vset/lm_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_008.vset/lm_sora.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0100sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0100sr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0101sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0101sr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0102kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0102kr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0103sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0103sr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0104kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0104kr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0105sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0105sr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0107sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0107sr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0108kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0108kr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0109sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0109sr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0110sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0110sr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0111sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0111sr.win32.scd
+- name: remastered/voice/event/di/di_001.vset/di0112kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_001.vset/di0112kr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0113sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0113sr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0114kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0114kr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0115sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0115sr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0116kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0116kr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0117sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0117sr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0118kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0118kr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0119sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0119sr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0120kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0120kr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0121kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0121kr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0122sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0122sr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0123sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0123sr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0124kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0124kr.win32.scd
+- name: remastered/voice/event/di/di_002.vset/di0125rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_002.vset/di0125rk.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0126rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0126rk.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0127sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0127sr.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0128kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0128kr.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0129rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0129rk.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0130kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0130kr.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0131kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0131kr.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0132sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0132sr.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0133rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0133rk.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di0134kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di0134kr.win32.scd
+- name: remastered/voice/event/di/di_003.vset/di01a1kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_003.vset/di01a1kr.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0301sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0301sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0302sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0302sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0303sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0303sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0304sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0304sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0305sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0305sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0306sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0306sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0307sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0307sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0308sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0308sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0309sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0309sl.win32.scd
+- name: remastered/voice/event/di/di_004.vset/di0310sl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_004.vset/di0310sl.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0311wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0311wa.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0312wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0312wa.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0313wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0313wa.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0314wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0314wa.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0315wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0315wa.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0316wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0316wa.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0317wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0317wa.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0318wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0318wa.win32.scd
+- name: remastered/voice/event/di/di_005.vset/di0319wa.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_005.vset/di0319wa.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0320te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0320te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0321te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0321te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0322te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0322te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0324te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0324te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0326te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0326te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0327te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0327te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0328te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0328te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0329te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0329te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0330te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0330te.win32.scd
+- name: remastered/voice/event/di/di_006.vset/di0332te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_006.vset/di0332te.win32.scd
+- name: remastered/voice/event/di/di_007.vset/di0321te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_007.vset/di0321te.win32.scd
+- name: remastered/voice/event/di/di_007.vset/di0323te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_007.vset/di0323te.win32.scd
+- name: remastered/voice/event/di/di_007.vset/di0325te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_007.vset/di0325te.win32.scd
+- name: remastered/voice/event/di/di_007.vset/di0329te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_007.vset/di0329te.win32.scd
+- name: remastered/voice/event/di/di_007.vset/di0331te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_007.vset/di0331te.win32.scd
+- name: remastered/voice/event/di/di_007.vset/di0333te.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_007.vset/di0333te.win32.scd
+- name: remastered/voice/event/di/di_008.vset/di0401rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_008.vset/di0401rk.win32.scd
+- name: remastered/voice/event/di/di_009.vset/di0501sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_009.vset/di0501sr.win32.scd
+- name: remastered/voice/event/di/di_009.vset/di0502rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_009.vset/di0502rk.win32.scd
+- name: remastered/voice/event/di/di_009.vset/di0503sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_009.vset/di0503sr.win32.scd
+- name: remastered/voice/event/di/di_009.vset/di0504rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_009.vset/di0504rk.win32.scd
+- name: remastered/voice/event/di/di_009.vset/di0505kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_009.vset/di0505kr.win32.scd
+- name: remastered/voice/event/di/di_010.vset/di0506rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_010.vset/di0506rk.win32.scd
+- name: remastered/voice/event/di/di_010.vset/di0507rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_010.vset/di0507rk.win32.scd
+- name: remastered/voice/event/di/di_010.vset/di0508rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_010.vset/di0508rk.win32.scd
+- name: remastered/voice/event/di/di_010.vset/di0509rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_010.vset/di0509rk.win32.scd
+- name: remastered/voice/event/di/di_010.vset/di0510rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_010.vset/di0510rk.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0511rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0511rk.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0512sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0512sr.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0513rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0513rk.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0514rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0514rk.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0515rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0515rk.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0516kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0516kr.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0517rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0517rk.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0518rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0518rk.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0519rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0519rk.win32.scd
+- name: remastered/voice/event/di/di_011.vset/di0520kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_011.vset/di0520kr.win32.scd
+- name: remastered/voice/event/di/di_012.vset/di0521rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_012.vset/di0521rk.win32.scd
+- name: remastered/voice/event/di/di_012.vset/di0522rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_012.vset/di0522rk.win32.scd
+- name: remastered/voice/event/di/di_012.vset/di0523sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_012.vset/di0523sr.win32.scd
+- name: remastered/voice/event/di/di_012.vset/di0524rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_012.vset/di0524rk.win32.scd
+- name: remastered/voice/event/di/di_012.vset/di0525rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_012.vset/di0525rk.win32.scd
+- name: remastered/voice/event/di/di_012.vset/di0526sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_012.vset/di0526sr.win32.scd
+- name: remastered/voice/event/di/di_012.vset/di0527rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_012.vset/di0527rk.win32.scd
+- name: remastered/voice/event/di/di_013.vset/di0601sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_013.vset/di0601sr.win32.scd
+- name: remastered/voice/event/di/di_013.vset/di0602rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_013.vset/di0602rk.win32.scd
+- name: remastered/voice/event/di/di_013.vset/di0603sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_013.vset/di0603sr.win32.scd
+- name: remastered/voice/event/di/di_013.vset/di0604rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_013.vset/di0604rk.win32.scd
+- name: remastered/voice/event/di/di_013.vset/di0605sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_013.vset/di0605sr.win32.scd
+- name: remastered/voice/event/di/di_013.vset/di0606kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_013.vset/di0606kr.win32.scd
+- name: remastered/voice/event/di/di_014.vset/di1001sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_014.vset/di1001sr.win32.scd
+- name: remastered/voice/event/di/di_014.vset/di1002an.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_014.vset/di1002an.win32.scd
+- name: remastered/voice/event/di/di_014.vset/di1003sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_014.vset/di1003sr.win32.scd
+- name: remastered/voice/event/di/di_014.vset/di1004an.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_014.vset/di1004an.win32.scd
+- name: remastered/voice/event/di/di_014.vset/di1005sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_014.vset/di1005sr.win32.scd
+- name: remastered/voice/event/di/di_014.vset/di1006an.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_014.vset/di1006an.win32.scd
+- name: remastered/voice/event/di/di_015.vset/di1007an.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_015.vset/di1007an.win32.scd
+- name: remastered/voice/event/di/di_015.vset/di1008sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_015.vset/di1008sr.win32.scd
+- name: remastered/voice/event/di/di_015.vset/di1009sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_015.vset/di1009sr.win32.scd
+- name: remastered/voice/event/di/di_015.vset/di1010an.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_015.vset/di1010an.win32.scd
+- name: remastered/voice/event/di/di_015.vset/di1011sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_015.vset/di1011sr.win32.scd
+- name: remastered/voice/event/di/di_015.vset/di1012an.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_015.vset/di1012an.win32.scd
+- name: remastered/voice/event/di/di_015.vset/di1013sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_015.vset/di1013sr.win32.scd
+- name: remastered/voice/event/di/di_015.vset/di1014an.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_015.vset/di1014an.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1101kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1101kr.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1102sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1102sr.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1103kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1103kr.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1104sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1104sr.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1105kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1105kr.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1106sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1106sr.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1107kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1107kr.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1108sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1108sr.win32.scd
+- name: remastered/voice/event/di/di_016.vset/di1109kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_016.vset/di1109kr.win32.scd
+- name: remastered/voice/event/di/di_017.vset/di1110kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_017.vset/di1110kr.win32.scd
+- name: remastered/voice/event/di/di_017.vset/di1111kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_017.vset/di1111kr.win32.scd
+- name: remastered/voice/event/di/di_017.vset/di1112kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_017.vset/di1112kr.win32.scd
+- name: remastered/voice/event/di/di_017.vset/di1113sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_017.vset/di1113sr.win32.scd
+- name: remastered/voice/event/di/di_017.vset/di1114kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_017.vset/di1114kr.win32.scd
+- name: remastered/voice/event/di/di_017.vset/di1115kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_017.vset/di1115kr.win32.scd
+- name: remastered/voice/event/di/di_017.vset/di1116sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_017.vset/di1116sr.win32.scd
+- name: remastered/voice/event/di/di_017.vset/di1117kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_017.vset/di1117kr.win32.scd
+- name: remastered/voice/event/di/di_018.vset/di1201kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_018.vset/di1201kr.win32.scd
+- name: remastered/voice/event/di/di_018.vset/di1202sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_018.vset/di1202sr.win32.scd
+- name: remastered/voice/event/di/di_018.vset/di1203sm.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_018.vset/di1203sm.win32.scd
+- name: remastered/voice/event/di/di_019.vset/di1301sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_019.vset/di1301sr.win32.scd
+- name: remastered/voice/event/di/di_019.vset/di1302sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_019.vset/di1302sr.win32.scd
+- name: remastered/voice/event/di/di_019.vset/di13a1sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_019.vset/di13a1sr.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1501sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1501sr.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1502rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1502rk.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1503sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1503sr.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1504rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1504rk.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1505sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1505sr.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1506rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1506rk.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1507rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1507rk.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1508rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1508rk.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1509rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1509rk.win32.scd
+- name: remastered/voice/event/di/di_020.vset/di1510sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_020.vset/di1510sr.win32.scd
+- name: remastered/voice/event/di/di_021.vset/di1601sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_021.vset/di1601sr.win32.scd
+- name: remastered/voice/event/di/di_021.vset/di1603sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_021.vset/di1603sr.win32.scd
+- name: remastered/voice/event/di/di_021.vset/di1604kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_021.vset/di1604kr.win32.scd
+- name: remastered/voice/event/di/di_022.vset/di1701sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_022.vset/di1701sr.win32.scd
+- name: remastered/voice/event/di/di_022.vset/di1702sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_022.vset/di1702sr.win32.scd
+- name: remastered/voice/event/di/di_022.vset/di1703sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_022.vset/di1703sr.win32.scd
+- name: remastered/voice/event/di/di_022.vset/di1704sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/di/di_022.vset/di1704sr.win32.scd
+- name: remastered/voice/event/he/he_001.vset/he0201sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_001.vset/he0201sr.win32.scd
+- name: remastered/voice/event/he/he_001.vset/he0202ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_001.vset/he0202ph.win32.scd
+- name: remastered/voice/event/he/he_001.vset/he0203ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_001.vset/he0203ph.win32.scd
+- name: remastered/voice/event/he/he_002.vset/he0301sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_002.vset/he0301sr.win32.scd
+- name: remastered/voice/event/he/he_002.vset/he0302ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_002.vset/he0302ph.win32.scd
+- name: remastered/voice/event/he/he_002.vset/he0303ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_002.vset/he0303ph.win32.scd
+- name: remastered/voice/event/he/he_002.vset/he0304ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_002.vset/he0304ph.win32.scd
+- name: remastered/voice/event/he/he_002.vset/he0305ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_002.vset/he0305ph.win32.scd
+- name: remastered/voice/event/he/he_003.vset/he0307ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_003.vset/he0307ph.win32.scd
+- name: remastered/voice/event/he/he_003.vset/he0308ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_003.vset/he0308ph.win32.scd
+- name: remastered/voice/event/he/he_003.vset/he0309do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_003.vset/he0309do.win32.scd
+- name: remastered/voice/event/he/he_003.vset/he0310go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_003.vset/he0310go.win32.scd
+- name: remastered/voice/event/he/he_003.vset/he0311do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_003.vset/he0311do.win32.scd
+- name: remastered/voice/event/he/he_004.vset/he0312ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_004.vset/he0312ph.win32.scd
+- name: remastered/voice/event/he/he_004.vset/he0313ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_004.vset/he0313ph.win32.scd
+- name: remastered/voice/event/he/he_004.vset/he0314sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_004.vset/he0314sr.win32.scd
+- name: remastered/voice/event/he/he_004.vset/he0315ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_004.vset/he0315ph.win32.scd
+- name: remastered/voice/event/he/he_005.vset/he0316ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_005.vset/he0316ph.win32.scd
+- name: remastered/voice/event/he/he_005.vset/he0317ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_005.vset/he0317ph.win32.scd
+- name: remastered/voice/event/he/he_005.vset/he0318ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_005.vset/he0318ph.win32.scd
+- name: remastered/voice/event/he/he_006.vset/he0501ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_006.vset/he0501ph.win32.scd
+- name: remastered/voice/event/he/he_006.vset/he0502sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_006.vset/he0502sr.win32.scd
+- name: remastered/voice/event/he/he_006.vset/he0503ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_006.vset/he0503ph.win32.scd
+- name: remastered/voice/event/he/he_006.vset/he0504sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_006.vset/he0504sr.win32.scd
+- name: remastered/voice/event/he/he_006.vset/he0505ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_006.vset/he0505ph.win32.scd
+- name: remastered/voice/event/he/he_006.vset/he0506ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_006.vset/he0506ph.win32.scd
+- name: remastered/voice/event/he/he_006.vset/he0507sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_006.vset/he0507sr.win32.scd
+- name: remastered/voice/event/he/he_007.vset/he0701ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_007.vset/he0701ha.win32.scd
+- name: remastered/voice/event/he/he_007.vset/he0702do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_007.vset/he0702do.win32.scd
+- name: remastered/voice/event/he/he_007.vset/he0703ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_007.vset/he0703ha.win32.scd
+- name: remastered/voice/event/he/he_007.vset/he0704ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_007.vset/he0704ha.win32.scd
+- name: remastered/voice/event/he/he_007.vset/he0705sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_007.vset/he0705sr.win32.scd
+- name: remastered/voice/event/he/he_007.vset/he0706ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_007.vset/he0706ha.win32.scd
+- name: remastered/voice/event/he/he_015.vset/he1601ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_015.vset/he1601ha.win32.scd
+- name: remastered/voice/event/he/he_015.vset/he1602ku.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_015.vset/he1602ku.win32.scd
+- name: remastered/voice/event/he/he_015.vset/he1603ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_015.vset/he1603ha.win32.scd
+- name: remastered/voice/event/he/he_015.vset/he1604ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_015.vset/he1604ha.win32.scd
+- name: remastered/voice/event/he/he_015.vset/he1605ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_015.vset/he1605ha.win32.scd
+- name: remastered/voice/event/he/he_015.vset/he1606ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_015.vset/he1606ha.win32.scd
+- name: remastered/voice/event/he/he_016.vset/he1608ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_016.vset/he1608ha.win32.scd
+- name: remastered/voice/event/he/he_016.vset/he1609ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_016.vset/he1609ha.win32.scd
+- name: remastered/voice/event/he/he_018.vset/he1801sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_018.vset/he1801sr.win32.scd
+- name: remastered/voice/event/he/he_018.vset/he1802ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_018.vset/he1802ha.win32.scd
+- name: remastered/voice/event/he/he_018.vset/he1803ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_018.vset/he1803ph.win32.scd
+- name: remastered/voice/event/he/he_018.vset/he1804hc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_018.vset/he1804hc.win32.scd
+- name: remastered/voice/event/he/he_018.vset/he18a2do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_018.vset/he18a2do.win32.scd
+- name: remastered/voice/event/he/he_018.vset/he18a3go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_018.vset/he18a3go.win32.scd
+- name: remastered/voice/event/he/he_020.vset/he2101ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_020.vset/he2101ph.win32.scd
+- name: remastered/voice/event/he/he_022.vset/he2201ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_022.vset/he2201ph.win32.scd
+- name: remastered/voice/event/he/he_022.vset/he2202hc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_022.vset/he2202hc.win32.scd
+- name: remastered/voice/event/he/he_022.vset/he2203do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_022.vset/he2203do.win32.scd
+- name: remastered/voice/event/he/he_022.vset/he2204ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_022.vset/he2204ph.win32.scd
+- name: remastered/voice/event/he/he_023.vset/he2205go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_023.vset/he2205go.win32.scd
+- name: remastered/voice/event/he/he_023.vset/he2206hc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_023.vset/he2206hc.win32.scd
+- name: remastered/voice/event/he/he_023.vset/he2207hc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_023.vset/he2207hc.win32.scd
+- name: remastered/voice/event/he/he_023.vset/he2208sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_023.vset/he2208sr.win32.scd
+- name: remastered/voice/event/he/he_023.vset/he2209ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_023.vset/he2209ph.win32.scd
+- name: remastered/voice/event/he/he_023.vset/he2210sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_023.vset/he2210sr.win32.scd
+- name: remastered/voice/event/he/he_024.vset/he2211ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_024.vset/he2211ph.win32.scd
+- name: remastered/voice/event/he/he_024.vset/he2212hc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_024.vset/he2212hc.win32.scd
+- name: remastered/voice/event/he/he_024.vset/he2213ph.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_024.vset/he2213ph.win32.scd
+- name: remastered/voice/event/he/he_030.vset/he2301ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_030.vset/he2301ha.win32.scd
+- name: remastered/voice/event/he/he_030.vset/he2302ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_030.vset/he2302ha.win32.scd
+- name: remastered/voice/event/he/he_030.vset/he2303ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_030.vset/he2303ha.win32.scd
+- name: remastered/voice/event/he/he_030.vset/he2304ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_030.vset/he2304ha.win32.scd
+- name: remastered/voice/event/he/he_030.vset/he2305ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_030.vset/he2305ma.win32.scd
+- name: remastered/voice/event/he/he_035.vset/he3001sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_035.vset/he3001sr.win32.scd
+- name: remastered/voice/event/he/he_035.vset/he3002ku.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_035.vset/he3002ku.win32.scd
+- name: remastered/voice/event/he/he_035.vset/he3003sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_035.vset/he3003sr.win32.scd
+- name: remastered/voice/event/he/he_035.vset/he3004ku.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_035.vset/he3004ku.win32.scd
+- name: remastered/voice/event/he/he_035.vset/he3005ku.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_035.vset/he3005ku.win32.scd
+- name: remastered/voice/event/he/he_035.vset/he3006ku.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_035.vset/he3006ku.win32.scd
+- name: remastered/voice/event/he/he_036.vset/he3007sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_036.vset/he3007sr.win32.scd
+- name: remastered/voice/event/he/he_036.vset/he3008sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_036.vset/he3008sr.win32.scd
+- name: remastered/voice/event/he/he_036.vset/he3009ku.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_036.vset/he3009ku.win32.scd
+- name: remastered/voice/event/he/he_036.vset/he3010ku.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_036.vset/he3010ku.win32.scd
+- name: remastered/voice/event/he/he_036.vset/he3011sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_036.vset/he3011sr.win32.scd
+- name: remastered/voice/event/he/he_036.vset/he3012ku.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_036.vset/he3012ku.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2401sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2401sr.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2402sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2402sr.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2403sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2403sr.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2404sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2404sr.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2405do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2405do.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2406do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2406do.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2407do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2407do.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2408go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2408go.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2409go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2409go.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2410go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2410go.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2411sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2411sr.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2412sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2412sr.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2413do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2413do.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2414do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2414do.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2415go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2415go.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2416go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2416go.win32.scd
+- name: remastered/voice/event/he/he_050.vset/he2417sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/he/he_050.vset/he2417sr.win32.scd
+- name: remastered/voice/event/pi/pi_001.vset/pi0201ji.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/pi/pi_001.vset/pi0201ji.win32.scd
+- name: remastered/voice/event/pi/pi_001.vset/pi0202pc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/pi/pi_001.vset/pi0202pc.win32.scd
+- name: remastered/voice/event/pi/pi_001.vset/pi0203ji.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/pi/pi_001.vset/pi0203ji.win32.scd
+- name: remastered/voice/event/pi/pi_001.vset/pi0204pc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/pi/pi_001.vset/pi0204pc.win32.scd
+- name: remastered/voice/event/pi/pi_001.vset/pi0205ji.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/pi/pi_001.vset/pi0205ji.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0101go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0101go.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0102do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0102do.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0103do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0103do.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0104do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0104do.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0105go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0105go.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0106go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0106go.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0107do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0107do.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0108go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0108go.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw0117do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw0117do.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw01a1go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw01a1go.win32.scd
+- name: remastered/voice/event/tw/tw_001.vset/tw01a2go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_001.vset/tw01a2go.win32.scd
+- name: remastered/voice/event/tw/tw_002.vset/tw0109sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_002.vset/tw0109sr.win32.scd
+- name: remastered/voice/event/tw/tw_002.vset/tw0110sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_002.vset/tw0110sr.win32.scd
+- name: remastered/voice/event/tw/tw_002.vset/tw0111sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_002.vset/tw0111sr.win32.scd
+- name: remastered/voice/event/tw/tw_002.vset/tw0112sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_002.vset/tw0112sr.win32.scd
+- name: remastered/voice/event/tw/tw_002.vset/tw0113sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_002.vset/tw0113sr.win32.scd
+- name: remastered/voice/event/tw/tw_002.vset/tw0114sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_002.vset/tw0114sr.win32.scd
+- name: remastered/voice/event/tw/tw_002.vset/tw0115sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_002.vset/tw0115sr.win32.scd
+- name: remastered/voice/event/tw/tw_002.vset/tw0116sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_002.vset/tw0116sr.win32.scd
+- name: remastered/voice/event/tw/tw_006.vset/tw0602le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_006.vset/tw0602le.win32.scd
+- name: remastered/voice/event/tw/tw_006.vset/tw0603sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_006.vset/tw0603sr.win32.scd
+- name: remastered/voice/event/tw/tw_006.vset/tw0604le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_006.vset/tw0604le.win32.scd
+- name: remastered/voice/event/tw/tw_006.vset/tw0605le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_006.vset/tw0605le.win32.scd
+- name: remastered/voice/event/tw/tw_006.vset/tw0606sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_006.vset/tw0606sr.win32.scd
+- name: remastered/voice/event/tw/tw_006.vset/tw0607le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_006.vset/tw0607le.win32.scd
+- name: remastered/voice/event/tw/tw_006.vset/tw0608sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_006.vset/tw0608sr.win32.scd
+- name: remastered/voice/event/tw/tw_006.vset/tw0609le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_006.vset/tw0609le.win32.scd
+- name: remastered/voice/event/tw/tw_007.vset/tw0701sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_007.vset/tw0701sr.win32.scd
+- name: remastered/voice/event/tw/tw_007.vset/tw0702ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_007.vset/tw0702ry.win32.scd
+- name: remastered/voice/event/tw/tw_007.vset/tw0703le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_007.vset/tw0703le.win32.scd
+- name: remastered/voice/event/tw/tw_007.vset/tw0704le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_007.vset/tw0704le.win32.scd
+- name: remastered/voice/event/tw/tw_007.vset/tw0705ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_007.vset/tw0705ry.win32.scd
+- name: remastered/voice/event/tw/tw_007.vset/tw0706le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_007.vset/tw0706le.win32.scd
+- name: remastered/voice/event/tw/tw_007.vset/tw0707le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_007.vset/tw0707le.win32.scd
+- name: remastered/voice/event/tw/tw_007.vset/tw07a1sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_007.vset/tw07a1sr.win32.scd
+- name: remastered/voice/event/tw/tw_008.vset/tw0801go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_008.vset/tw0801go.win32.scd
+- name: remastered/voice/event/tw/tw_008.vset/tw0802do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_008.vset/tw0802do.win32.scd
+- name: remastered/voice/event/tw/tw_008.vset/tw0803do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_008.vset/tw0803do.win32.scd
+- name: remastered/voice/event/tw/tw_008.vset/tw0804ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_008.vset/tw0804ea.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw0901kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw0901kr.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw0902kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw0902kr.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw0903sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw0903sr.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw0904kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw0904kr.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw0905kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw0905kr.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw0906sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw0906sr.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw0907kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw0907kr.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw0908sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw0908sr.win32.scd
+- name: remastered/voice/event/tw/tw_009.vset/tw09a1sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_009.vset/tw09a1sr.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw0909ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw0909ry.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw0910le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw0910le.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw0911sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw0911sr.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw0912ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw0912ry.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw0913le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw0913le.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw0914le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw0914le.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw0915le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw0915le.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw0916sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw0916sr.win32.scd
+- name: remastered/voice/event/tw/tw_010.vset/tw09a3sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_010.vset/tw09a3sr.win32.scd
+- name: remastered/voice/event/tw/tw_011.vset/tw0917ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_011.vset/tw0917ea.win32.scd
+- name: remastered/voice/event/tw/tw_011.vset/tw0918do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_011.vset/tw0918do.win32.scd
+- name: remastered/voice/event/tw/tw_011.vset/tw0919go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_011.vset/tw0919go.win32.scd
+- name: remastered/voice/event/tw/tw_011.vset/tw0920ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_011.vset/tw0920ea.win32.scd
+- name: remastered/voice/event/tw/tw_011.vset/tw0921ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_011.vset/tw0921ea.win32.scd
+- name: remastered/voice/event/tw/tw_012.vset/tw0922sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_012.vset/tw0922sr.win32.scd
+- name: remastered/voice/event/tw/tw_012.vset/tw0923ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_012.vset/tw0923ry.win32.scd
+- name: remastered/voice/event/tw/tw_012.vset/tw0924le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_012.vset/tw0924le.win32.scd
+- name: remastered/voice/event/tw/tw_012.vset/tw0925ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_012.vset/tw0925ry.win32.scd
+- name: remastered/voice/event/tw/tw_012.vset/tw0926le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_012.vset/tw0926le.win32.scd
+- name: remastered/voice/event/tw/tw_012.vset/tw0927ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_012.vset/tw0927ry.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0928go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0928go.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0929ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0929ea.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0930ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0930ea.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0931go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0931go.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0932ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0932ea.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0933do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0933do.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0934ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0934ea.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0935go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0935go.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0936ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0936ea.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0937go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0937go.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0938do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0938do.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0939do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0939do.win32.scd
+- name: remastered/voice/event/tw/tw_013.vset/tw0940ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_013.vset/tw0940ea.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0941sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0941sr.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0942ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0942ry.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0943le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0943le.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0944le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0944le.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0945sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0945sr.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0946ry.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0946ry.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0947le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0947le.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0948sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0948sr.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0949sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0949sr.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0950sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0950sr.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw0951le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw0951le.win32.scd
+- name: remastered/voice/event/tw/tw_014.vset/tw09a2sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_014.vset/tw09a2sr.win32.scd
+- name: remastered/voice/event/tw/tw_015.vset/tw1001le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_015.vset/tw1001le.win32.scd
+- name: remastered/voice/event/tw/tw_015.vset/tw1002ea.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_015.vset/tw1002ea.win32.scd
+- name: remastered/voice/event/tw/tw_015.vset/tw1003le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_015.vset/tw1003le.win32.scd
+- name: remastered/voice/event/tw/tw_015.vset/tw10a1do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_015.vset/tw10a1do.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw1201go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw1201go.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw1202do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw1202do.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw1203do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw1203do.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw1204go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw1204go.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw12a1do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw12a1do.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw12a2go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw12a2go.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw12a3do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw12a3do.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw12a6go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw12a6go.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw12a7go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw12a7go.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw12b1sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw12b1sr.win32.scd
+- name: remastered/voice/event/tw/tw_016.vset/tw12b4go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_016.vset/tw12b4go.win32.scd
+- name: remastered/voice/event/tw/tw_017.vset/tw12a0do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_017.vset/tw12a0do.win32.scd
+- name: remastered/voice/event/tw/tw_017.vset/tw12a9go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_017.vset/tw12a9go.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1301sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1301sr.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1302le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1302le.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1303go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1303go.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1304sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1304sr.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1305do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1305do.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1306go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1306go.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1307do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1307do.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1309le.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1309le.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw1310sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw1310sr.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw13a1do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw13a1do.win32.scd
+- name: remastered/voice/event/tw/tw_018.vset/tw13a2go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_018.vset/tw13a2go.win32.scd
+- name: remastered/voice/event/tw/tw_019.vset/tw1311do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_019.vset/tw1311do.win32.scd
+- name: remastered/voice/event/tw/tw_019.vset/tw1312go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_019.vset/tw1312go.win32.scd
+- name: remastered/voice/event/tw/tw_019.vset/tw1313do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_019.vset/tw1313do.win32.scd
+- name: remastered/voice/event/tw/tw_019.vset/tw1314go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_019.vset/tw1314go.win32.scd
+- name: remastered/voice/event/tw/tw_019.vset/tw1315do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_019.vset/tw1315do.win32.scd
+- name: remastered/voice/event/tw/tw_019.vset/tw1316sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_019.vset/tw1316sr.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw1317sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw1317sr.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw1318go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw1318go.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw1319sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw1319sr.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw1320do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw1320do.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw1321go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw1321go.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw1322sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw1322sr.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw1323go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw1323go.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw13a3do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw13a3do.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw13a4do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw13a4do.win32.scd
+- name: remastered/voice/event/tw/tw_020.vset/tw13b3do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_020.vset/tw13b3do.win32.scd
+- name: remastered/voice/event/tw/tw_030.vset/t20101kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_030.vset/t20101kr.win32.scd
+- name: remastered/voice/event/tw/tw_030.vset/t20102kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_030.vset/t20102kr.win32.scd
+- name: remastered/voice/event/tw/tw_030.vset/t20103kr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_030.vset/t20103kr.win32.scd
+- name: remastered/voice/event/tw/tw_030.vset/t20104sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_030.vset/t20104sr.win32.scd
+- name: remastered/voice/event/tw/tw_030.vset/t20105go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_030.vset/t20105go.win32.scd
+- name: remastered/voice/event/tw/tw_031.vset/t20201rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_031.vset/t20201rk.win32.scd
+- name: remastered/voice/event/tw/tw_031.vset/t20202sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_031.vset/t20202sr.win32.scd
+- name: remastered/voice/event/tw/tw_031.vset/t20203rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_031.vset/t20203rk.win32.scd
+- name: remastered/voice/event/tw/tw_031.vset/t20204sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_031.vset/t20204sr.win32.scd
+- name: remastered/voice/event/tw/tw_031.vset/t20205rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_031.vset/t20205rk.win32.scd
+- name: remastered/voice/event/tw/tw_031.vset/t20206sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_031.vset/t20206sr.win32.scd
+- name: remastered/voice/event/tw/tw_031.vset/t20207sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_031.vset/t20207sr.win32.scd
+- name: remastered/voice/event/tw/tw_031.vset/t20208rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_031.vset/t20208rk.win32.scd
+- name: remastered/voice/event/tw/tw_032.vset/t20209rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_032.vset/t20209rk.win32.scd
+- name: remastered/voice/event/tw/tw_032.vset/t20211rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_032.vset/t20211rk.win32.scd
+- name: remastered/voice/event/tw/tw_032.vset/t20212rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_032.vset/t20212rk.win32.scd
+- name: remastered/voice/event/tw/tw_032.vset/t20213rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_032.vset/t20213rk.win32.scd
+- name: remastered/voice/event/tw/tw_032.vset/t20214sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_032.vset/t20214sr.win32.scd
+- name: remastered/voice/event/tw/tw_032.vset/t20215rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_032.vset/t20215rk.win32.scd
+- name: remastered/voice/event/tw/tw_032.vset/t20216sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_032.vset/t20216sr.win32.scd
+- name: remastered/voice/event/tw/tw_032.vset/t20217rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_032.vset/t20217rk.win32.scd
+- name: remastered/voice/event/tw/tw_033.vset/t20218do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_033.vset/t20218do.win32.scd
+- name: remastered/voice/event/tw/tw_033.vset/t20219sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_033.vset/t20219sr.win32.scd
+- name: remastered/voice/event/tw/tw_033.vset/t20220rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_033.vset/t20220rk.win32.scd
+- name: remastered/voice/event/tw/tw_033.vset/t20221go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_033.vset/t20221go.win32.scd
+- name: remastered/voice/event/tw/tw_033.vset/t20222do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_033.vset/t20222do.win32.scd
+- name: remastered/voice/event/tw/tw_033.vset/t20223sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_033.vset/t20223sr.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20224rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20224rk.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20225sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20225sr.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20226rk.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20226rk.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20227sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20227sr.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20228sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20228sr.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20229do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20229do.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20230sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20230sr.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20231do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20231do.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t20232sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t20232sr.win32.scd
+- name: remastered/voice/event/tw/tw_034.vset/t202a1do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_034.vset/t202a1do.win32.scd
+- name: remastered/voice/event/tw/tw_035.vset/t20233go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_035.vset/t20233go.win32.scd
+- name: remastered/voice/event/tw/tw_035.vset/t20234sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_035.vset/t20234sr.win32.scd
+- name: remastered/voice/event/tw/tw_035.vset/t20235sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_035.vset/t20235sr.win32.scd
+- name: remastered/voice/event/tw/tw_035.vset/t20236sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_035.vset/t20236sr.win32.scd
+- name: remastered/voice/event/tw/tw_040.vset/t20301ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_040.vset/t20301ma.win32.scd
+- name: remastered/voice/event/tw/tw_040.vset/t20302ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_040.vset/t20302ma.win32.scd
+- name: remastered/voice/event/tw/tw_040.vset/t20303ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_040.vset/t20303ma.win32.scd
+- name: remastered/voice/event/tw/tw_040.vset/t20304ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_040.vset/t20304ma.win32.scd
+- name: remastered/voice/event/tw/tw_040.vset/t20305ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_040.vset/t20305ma.win32.scd
+- name: remastered/voice/event/tw/tw_090.vset/tw1401ha.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_090.vset/tw1401ha.win32.scd
+- name: remastered/voice/event/tw/tw_090.vset/tw1402ja.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_090.vset/tw1402ja.win32.scd
+- name: remastered/voice/event/tw/tw_090.vset/tw1403ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_090.vset/tw1403ur.win32.scd
+- name: remastered/voice/event/tw/tw_090.vset/tw1404ho.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_090.vset/tw1404ho.win32.scd
+- name: remastered/voice/event/tw/tw_090.vset/tw1405bo.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_090.vset/tw1405bo.win32.scd
+- name: remastered/voice/event/tw/tw_090.vset/tw1406ho.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_090.vset/tw1406ho.win32.scd
+- name: remastered/voice/event/tw/tw_090.vset/tw1407ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_090.vset/tw1407ma.win32.scd
+- name: remastered/voice/event/tw/tw_091.vset/tw1408ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_091.vset/tw1408ma.win32.scd
+- name: remastered/voice/event/tw/tw_091.vset/tw1409ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_091.vset/tw1409ma.win32.scd
+- name: remastered/voice/event/tw/tw_091.vset/tw1410ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_091.vset/tw1410ma.win32.scd
+- name: remastered/voice/event/tw/tw_091.vset/vset_table.bin
+  method: copy
+  source:
+  - name: remastered/voice/event/tw/tw_091.vset/vset_table.bin
+- name: remastered/voice/event/tz/tz_001.vset/tz1101tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_001.vset/tz1101tz.win32.scd
+- name: remastered/voice/event/tz/tz_001.vset/tz1102tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_001.vset/tz1102tz.win32.scd
+- name: remastered/voice/event/tz/tz_001.vset/tz1103tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_001.vset/tz1103tz.win32.scd
+- name: remastered/voice/event/tz/tz_001.vset/tz1104go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_001.vset/tz1104go.win32.scd
+- name: remastered/voice/event/tz/tz_001.vset/tz1105do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_001.vset/tz1105do.win32.scd
+- name: remastered/voice/event/tz/tz_001.vset/tz1106tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_001.vset/tz1106tz.win32.scd
+- name: remastered/voice/event/tz/tz_001.vset/tz1107tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_001.vset/tz1107tz.win32.scd
+- name: remastered/voice/event/tz/tz_002.vset/tz0401go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_002.vset/tz0401go.win32.scd
+- name: remastered/voice/event/tz/tz_002.vset/tz0402go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_002.vset/tz0402go.win32.scd
+- name: remastered/voice/event/tz/tz_002.vset/tz0403do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_002.vset/tz0403do.win32.scd
+- name: remastered/voice/event/tz/tz_002.vset/tz0404do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_002.vset/tz0404do.win32.scd
+- name: remastered/voice/event/tz/tz_002.vset/tz0405tc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_002.vset/tz0405tc.win32.scd
+- name: remastered/voice/event/tz/tz_002.vset/tz04a1tc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_002.vset/tz04a1tc.win32.scd
+- name: remastered/voice/event/tz/tz_002.vset/tz04a2go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_002.vset/tz04a2go.win32.scd
+- name: remastered/voice/event/tz/tz_002.vset/tz04a3do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_002.vset/tz04a3do.win32.scd
+- name: remastered/voice/event/tz/tz_003.vset/tz1201do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_003.vset/tz1201do.win32.scd
+- name: remastered/voice/event/tz/tz_003.vset/tz1202do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_003.vset/tz1202do.win32.scd
+- name: remastered/voice/event/tz/tz_003.vset/tz1203tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_003.vset/tz1203tz.win32.scd
+- name: remastered/voice/event/tz/tz_003.vset/tz1204cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_003.vset/tz1204cl.win32.scd
+- name: remastered/voice/event/tz/tz_003.vset/tz1205cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_003.vset/tz1205cl.win32.scd
+- name: remastered/voice/event/tz/tz_004.vset/tz1301je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_004.vset/tz1301je.win32.scd
+- name: remastered/voice/event/tz/tz_004.vset/tz1302cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_004.vset/tz1302cl.win32.scd
+- name: remastered/voice/event/tz/tz_004.vset/tz1303je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_004.vset/tz1303je.win32.scd
+- name: remastered/voice/event/tz/tz_004.vset/tz1304cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_004.vset/tz1304cl.win32.scd
+- name: remastered/voice/event/tz/tz_004.vset/tz13a1cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_004.vset/tz13a1cl.win32.scd
+- name: remastered/voice/event/tz/tz_004.vset/tz13a2cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_004.vset/tz13a2cl.win32.scd
+- name: remastered/voice/event/tz/tz_005.vset/tz1305cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_005.vset/tz1305cl.win32.scd
+- name: remastered/voice/event/tz/tz_005.vset/tz1306cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_005.vset/tz1306cl.win32.scd
+- name: remastered/voice/event/tz/tz_005.vset/tz1307cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_005.vset/tz1307cl.win32.scd
+- name: remastered/voice/event/tz/tz_005.vset/tz13a3cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_005.vset/tz13a3cl.win32.scd
+- name: remastered/voice/event/tz/tz_005.vset/tz13a4cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_005.vset/tz13a4cl.win32.scd
+- name: remastered/voice/event/tz/tz_006.vset/tz0101sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_006.vset/tz0101sr.win32.scd
+- name: remastered/voice/event/tz/tz_006.vset/tz0102sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_006.vset/tz0102sr.win32.scd
+- name: remastered/voice/event/tz/tz_006.vset/tz01a1sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_006.vset/tz01a1sr.win32.scd
+- name: remastered/voice/event/tz/tz_006.vset/tz01a2sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_006.vset/tz01a2sr.win32.scd
+- name: remastered/voice/event/tz/tz_006.vset/tz01a3sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_006.vset/tz01a3sr.win32.scd
+- name: remastered/voice/event/tz/tz_007.vset/tz0301tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_007.vset/tz0301tz.win32.scd
+- name: remastered/voice/event/tz/tz_007.vset/tz0302sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_007.vset/tz0302sr.win32.scd
+- name: remastered/voice/event/tz/tz_007.vset/tz0303tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_007.vset/tz0303tz.win32.scd
+- name: remastered/voice/event/tz/tz_007.vset/tz0304sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_007.vset/tz0304sr.win32.scd
+- name: remastered/voice/event/tz/tz_007.vset/tz0305tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_007.vset/tz0305tz.win32.scd
+- name: remastered/voice/event/tz/tz_007.vset/tz0306sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_007.vset/tz0306sr.win32.scd
+- name: remastered/voice/event/tz/tz_008.vset/tz0307sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_008.vset/tz0307sr.win32.scd
+- name: remastered/voice/event/tz/tz_008.vset/tz0308tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_008.vset/tz0308tz.win32.scd
+- name: remastered/voice/event/tz/tz_008.vset/tz0309sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_008.vset/tz0309sr.win32.scd
+- name: remastered/voice/event/tz/tz_008.vset/tz0310tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_008.vset/tz0310tz.win32.scd
+- name: remastered/voice/event/tz/tz_008.vset/tz0311sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_008.vset/tz0311sr.win32.scd
+- name: remastered/voice/event/tz/tz_009.vset/tz0312tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_009.vset/tz0312tz.win32.scd
+- name: remastered/voice/event/tz/tz_009.vset/tz0313sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_009.vset/tz0313sr.win32.scd
+- name: remastered/voice/event/tz/tz_009.vset/tz0314sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_009.vset/tz0314sr.win32.scd
+- name: remastered/voice/event/tz/tz_009.vset/tz0315tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_009.vset/tz0315tz.win32.scd
+- name: remastered/voice/event/tz/tz_009.vset/tz0316sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_009.vset/tz0316sr.win32.scd
+- name: remastered/voice/event/tz/tz_010.vset/tz0317tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_010.vset/tz0317tz.win32.scd
+- name: remastered/voice/event/tz/tz_010.vset/tz0318sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_010.vset/tz0318sr.win32.scd
+- name: remastered/voice/event/tz/tz_010.vset/tz0319sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_010.vset/tz0319sr.win32.scd
+- name: remastered/voice/event/tz/tz_010.vset/tz0320tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_010.vset/tz0320tz.win32.scd
+- name: remastered/voice/event/tz/tz_010.vset/tz0321sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_010.vset/tz0321sr.win32.scd
+- name: remastered/voice/event/tz/tz_010.vset/tz0322tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_010.vset/tz0322tz.win32.scd
+- name: remastered/voice/event/tz/tz_010.vset/tz0323sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_010.vset/tz0323sr.win32.scd
+- name: remastered/voice/event/tz/tz_010.vset/tz0324tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_010.vset/tz0324tz.win32.scd
+- name: remastered/voice/event/tz/tz_011.vset/tz0325sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_011.vset/tz0325sr.win32.scd
+- name: remastered/voice/event/tz/tz_011.vset/tz0326tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_011.vset/tz0326tz.win32.scd
+- name: remastered/voice/event/tz/tz_011.vset/tz0327tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_011.vset/tz0327tz.win32.scd
+- name: remastered/voice/event/tz/tz_011.vset/tz0328sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_011.vset/tz0328sr.win32.scd
+- name: remastered/voice/event/tz/tz_011.vset/tz0329sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_011.vset/tz0329sr.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz0501tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz0501tz.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz0502je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz0502je.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz0503sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz0503sr.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz0504je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz0504je.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz0505je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz0505je.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz0506cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz0506cl.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz0507go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz0507go.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz0508sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz0508sr.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz05a1sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz05a1sr.win32.scd
+- name: remastered/voice/event/tz/tz_012.vset/tz05a2do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_012.vset/tz05a2do.win32.scd
+- name: remastered/voice/event/tz/tz_013.vset/tz0509cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_013.vset/tz0509cl.win32.scd
+- name: remastered/voice/event/tz/tz_013.vset/tz0510je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_013.vset/tz0510je.win32.scd
+- name: remastered/voice/event/tz/tz_013.vset/tz0511je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_013.vset/tz0511je.win32.scd
+- name: remastered/voice/event/tz/tz_014.vset/tz0512sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_014.vset/tz0512sr.win32.scd
+- name: remastered/voice/event/tz/tz_014.vset/tz0513sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_014.vset/tz0513sr.win32.scd
+- name: remastered/voice/event/tz/tz_014.vset/tz0514do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_014.vset/tz0514do.win32.scd
+- name: remastered/voice/event/tz/tz_014.vset/tz0515sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_014.vset/tz0515sr.win32.scd
+- name: remastered/voice/event/tz/tz_014.vset/tz0516go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_014.vset/tz0516go.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1001je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1001je.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1003sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1003sr.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1005sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1005sr.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1006cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1006cl.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1007cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1007cl.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1008cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1008cl.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1009cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1009cl.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1010je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1010je.win32.scd
+- name: remastered/voice/event/tz/tz_015.vset/tz1011cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_015.vset/tz1011cl.win32.scd
+- name: remastered/voice/event/tz/tz_016.vset/tz1012je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_016.vset/tz1012je.win32.scd
+- name: remastered/voice/event/tz/tz_016.vset/tz1013tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_016.vset/tz1013tz.win32.scd
+- name: remastered/voice/event/tz/tz_016.vset/tz1014je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_016.vset/tz1014je.win32.scd
+- name: remastered/voice/event/tz/tz_016.vset/tz1015cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_016.vset/tz1015cl.win32.scd
+- name: remastered/voice/event/tz/tz_016.vset/tz1016cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_016.vset/tz1016cl.win32.scd
+- name: remastered/voice/event/tz/tz_017.vset/tz1401sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_017.vset/tz1401sr.win32.scd
+- name: remastered/voice/event/tz/tz_018.vset/tz17a1je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_018.vset/tz17a1je.win32.scd
+- name: remastered/voice/event/tz/tz_018.vset/tz17a2je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_018.vset/tz17a2je.win32.scd
+- name: remastered/voice/event/tz/tz_018.vset/tz17a3tc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_018.vset/tz17a3tc.win32.scd
+- name: remastered/voice/event/tz/tz_019.vset/tz1801je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_019.vset/tz1801je.win32.scd
+- name: remastered/voice/event/tz/tz_020.vset/tz1901sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_020.vset/tz1901sr.win32.scd
+- name: remastered/voice/event/tz/tz_020.vset/tz1902sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_020.vset/tz1902sr.win32.scd
+- name: remastered/voice/event/tz/tz_020.vset/tz1903tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_020.vset/tz1903tz.win32.scd
+- name: remastered/voice/event/tz/tz_021.vset/tz20a1cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_021.vset/tz20a1cl.win32.scd
+- name: remastered/voice/event/tz/tz_021.vset/tz20a2cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_021.vset/tz20a2cl.win32.scd
+- name: remastered/voice/event/tz/tz_021.vset/tz20a3sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_021.vset/tz20a3sr.win32.scd
+- name: remastered/voice/event/tz/tz_022.vset/tz2101cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_022.vset/tz2101cl.win32.scd
+- name: remastered/voice/event/tz/tz_022.vset/tz21a1cl.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_022.vset/tz21a1cl.win32.scd
+- name: remastered/voice/event/tz/tz_023.vset/tz2102tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_023.vset/tz2102tz.win32.scd
+- name: remastered/voice/event/tz/tz_023.vset/tz21a2sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_023.vset/tz21a2sr.win32.scd
+- name: remastered/voice/event/tz/tz_023.vset/tz21a3sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_023.vset/tz21a3sr.win32.scd
+- name: remastered/voice/event/tz/tz_023.vset/tz21a4sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_023.vset/tz21a4sr.win32.scd
+- name: remastered/voice/event/tz/tz_023.vset/tz21a5do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_023.vset/tz21a5do.win32.scd
+- name: remastered/voice/event/tz/tz_023.vset/tz21a6go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_023.vset/tz21a6go.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz2301tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz2301tz.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz2302sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz2302sr.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz2303go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz2303go.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz2304je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz2304je.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz2305tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz2305tz.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz2306je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz2306je.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz2307tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz2307tz.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz2308sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz2308sr.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz23a1go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz23a1go.win32.scd
+- name: remastered/voice/event/tz/tz_024.vset/tz23a3sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_024.vset/tz23a3sr.win32.scd
+- name: remastered/voice/event/tz/tz_025.vset/tz2309tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_025.vset/tz2309tz.win32.scd
+- name: remastered/voice/event/tz/tz_025.vset/tz2310tz.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_025.vset/tz2310tz.win32.scd
+- name: remastered/voice/event/tz/tz_025.vset/tz2311sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_025.vset/tz2311sr.win32.scd
+- name: remastered/voice/event/tz/tz_025.vset/tz2312do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_025.vset/tz2312do.win32.scd
+- name: remastered/voice/event/tz/tz_025.vset/tz2313go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_025.vset/tz2313go.win32.scd
+- name: remastered/voice/event/tz/tz_026.vset/tz2314do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_026.vset/tz2314do.win32.scd
+- name: remastered/voice/event/tz/tz_026.vset/tz2315go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_026.vset/tz2315go.win32.scd
+- name: remastered/voice/event/tz/tz_026.vset/tz2316je.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_026.vset/tz2316je.win32.scd
+- name: remastered/voice/event/tz/tz_026.vset/tz2317do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_026.vset/tz2317do.win32.scd
+- name: remastered/voice/event/tz/tz_026.vset/tz2318tc.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_026.vset/tz2318tc.win32.scd
+- name: remastered/voice/event/tz/tz_026.vset/tz2319do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_026.vset/tz2319do.win32.scd
+- name: remastered/voice/event/tz/tz_026.vset/tz23a2go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_026.vset/tz23a2go.win32.scd
+- name: remastered/voice/event/tz/tz_026.vset/tz23a4sr.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_026.vset/tz23a4sr.win32.scd
+- name: remastered/voice/event/tz/tz_090.vset/tz2401ja.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_090.vset/tz2401ja.win32.scd
+- name: remastered/voice/event/tz/tz_090.vset/tz2402ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_090.vset/tz2402ma.win32.scd
+- name: remastered/voice/event/tz/tz_090.vset/tz2403bo.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_090.vset/tz2403bo.win32.scd
+- name: remastered/voice/event/tz/tz_090.vset/tz2404ja.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_090.vset/tz2404ja.win32.scd
+- name: remastered/voice/event/tz/tz_090.vset/tz2405ja.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_090.vset/tz2405ja.win32.scd
+- name: remastered/voice/event/tz/tz_091.vset/tz2406ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_091.vset/tz2406ma.win32.scd
+- name: remastered/voice/event/tz/tz_091.vset/tz2407ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_091.vset/tz2407ma.win32.scd
+- name: remastered/voice/event/tz/tz_091.vset/tz2408ur.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_091.vset/tz2408ur.win32.scd
+- name: remastered/voice/event/tz/tz_091.vset/tz2409ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_091.vset/tz2409ma.win32.scd
+- name: remastered/voice/event/tz/tz_091.vset/tz2410ma.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/tz/tz_091.vset/tz2410ma.win32.scd
